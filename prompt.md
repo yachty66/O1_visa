@@ -214,13 +214,14 @@ Degree in Applied Computer Science, freelancer for US-based AI startups, open so
 Achievements:
 
 - Launched 5 commercial projects that gained at least one paying customer, generating a total revenue of around $500.  
--  I created 6 open-source projects on GitHub, totaling over 200 stars and approximately 10,000 Python package installations.  
--  Created two Twitter accounts, one with 6,000 followers in the niche of arXiv, which is highly relevant for researchers, and the other focused on developers, posting developer content with 2,300 followers.  
--  I was involved in building an intentional community housing project in Berlin for ambitious individuals from top universities in Germany, which now has over 15 members. I was also involved in creating intentional living spaces in San Francisco.  
--  In my youth, I was a goalkeeper on a soccer team in Germany, winning several prizes at tournaments, and as a team, we had many appearances in the local press.  
--  I won the Runpod hackathon and secured second place in another hackathon.  
--  I worked on cutting-edge technology to build products that are used by thousands of users (see CV).  
--  Other fields in which I rank in the top 1-5% relative to society:  
+- I created 6 open-source projects on GitHub, totaling over 200 stars and approximately 10,000 Python package installations.  
+- Created two Twitter accounts, one with 6,000 followers in the niche of arXiv, which is highly relevant for researchers, and the other focused on developers, posting developer content with 2,300 followers.  
+- I was involved in building an intentional community housing project in Berlin for ambitious individuals from top universities in Germany, which now has over 15 members. I was also involved in creating intentional living spaces in San Francisco.  
+- In my youth, I was a goalkeeper on a soccer team in Germany, winning several prizes at tournaments, and as a team, we had many appearances in the local press.  
+- I won the Runpod hackathon and secured second place in another hackathon.  
+- I got accepted to a German ideation fellowship program "EWOR." They say the acceptance rate is 0.1%.
+- I worked on cutting-edge technology to build products that are used by thousands of users (see CV).  
+- Other fields in which I rank in the top 1-5% relative to society:  
     - Reading: I started reading at 18 and have read 250 non-fiction books from start to finish since then.  
     - Meditation: I completed a 2-week meditation retreat at 19, and since then, I have been meditating daily for between 15 minutes to 1 hour, totaling around 2,000 hours of meditation.  
     - Running: In 2024, I ran approximately 800 km and so far, I have completed three marathons.  

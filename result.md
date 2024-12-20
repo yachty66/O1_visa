@@ -15,7 +15,7 @@ Here’s how your achievements align with these criteria:
 
 ### **1. Awards**
 
-**Criterion:** *Nationally or internationally recognized prizes or awards for excellence in your field.*
+**Criterion:** *Nationally or internationally recognized prizes or awards for excellengit push -u origin maine in your field.*
 
 - **Runpod Hackathon Winner and Second Place in Another Hackathon**
 
