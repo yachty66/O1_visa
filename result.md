@@ -15,7 +15,7 @@ Here’s how your achievements align with these criteria:
 
 ### **1. Awards**
 
-**Criterion:** *Nationally or internationally recognized prizes or awards for excellengit push -u origin maine in your field.*
+**Criterion:** *Nationally or internationally recognized prizes or awards for excellence in your field.*
 
 - **Runpod Hackathon Winner and Second Place in Another Hackathon**
 
@@ -25,7 +25,11 @@ Here’s how your achievements align with these criteria:
 
   - **Analysis:** While winning soccer tournaments and appearing in local press demonstrates excellence, these awards are not directly related to your field of expertise (AI engineering). Therefore, they may not significantly contribute to this criterion for the O-1 visa.
 
-**✅ Potentially satisfies the Awards criterion, contingent on the recognition level of the hackathons.**
+- **EWOR Fellowship Acceptance**
+
+  - **Analysis:** The acceptance into the EWOR fellowship program is a prestigious achievement, indicating that you are recognized as an exceptional individual in your field. This could satisfy the **Awards** criterion.
+
+**✅ Potentially satisfies the Awards criterion, contingent on the recognition level of the hackathons and the perceived value of the EWOR fellowship.**
 
 ---
 
